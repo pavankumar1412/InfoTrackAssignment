@@ -1,7 +1,9 @@
 
 **Please be informed that I have used a mac chrome driver reference in the script as I tested the test scripts on mac. 
 
-**Please change the driver initialisation reference before running the tests.** **
+**Please change the chrome driver reference in TestBase.java before running the tests.** 
+
+**String chromeFilePath = System.getProperty("user.dir") + "/drivers/MacDrivers/chromedriver";**
 _________________________________________________________________________________
 
 # Page Object model Test automation framework using Selenium with Java, TestNG and Maven-
