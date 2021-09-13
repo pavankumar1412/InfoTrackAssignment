@@ -17,5 +17,7 @@ log4j
 - Pick the lowest price mobile phone (create by your own)
 - put it into cart (create by your own)
 - Verify that same item into cart (create by your own)
+___________________________________________________________________________________
 
-.
+Please be informed that I have used a mac chrome driver reference in the script as I tested the test scripts on mac. 
+
