@@ -1,3 +1,9 @@
+
+**Please be informed that I have used a mac chrome driver reference in the script as I tested the test scripts on mac. 
+
+**Please change the driver initialisation reference before running the tests.** **
+_________________________________________________________________________________
+
 # Page Object model Test automation framework using Selenium with Java, TestNG and Maven-
 This is a project setup to test your ability if you can work with POM framework
 
@@ -18,6 +24,4 @@ log4j
 - put it into cart (create by your own)
 - Verify that same item into cart (create by your own)
 ___________________________________________________________________________________
-
-Please be informed that I have used a mac chrome driver reference in the script as I tested the test scripts on mac. 
 
